@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 my name is Olaf, nice to meet you ☺️
+
+
+About me:  
+- I am currently seeking experiences in Data Science.
+- I'm a technology, car, and dog enthusiast.
+#  
+
 
 <!--
 **OlafJCG/OlafJCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
